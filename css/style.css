@@ -39,3 +39,7 @@ table, td {
   th {
     background-color: blueviolet;
   }
+  .interressi{
+    color: rebeccapurple;
+    font-weight: bold;
+  }
