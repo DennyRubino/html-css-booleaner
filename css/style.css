@@ -1,11 +1,18 @@
-div{
-
-header {height: 64px;}
-#page title{
-    font-size: 64;
-    text-align: center;
-    font-size: medium;
-}
+.raleway-uniquifier {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 10px;
+    font-style: normal;
     
 }
+
+#page-title {
+    font-size: medium;
+    text-align: left;
+    background-image:url(../image/pattern.png);
+    background-size: auto;
+    color:red;
+    background-repeat: repeat;
+}
+
 
