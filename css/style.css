@@ -30,5 +30,12 @@
 }
 .tag{
     color: blueviolet;
-    
+
 }
+table, td {
+    border: 1px solid lightcoral;
+    border-collapse: collapse;
+  }
+  th {
+    background-color: blueviolet;
+  }
