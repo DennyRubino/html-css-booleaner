@@ -39,7 +39,26 @@ table, td {
   th {
     background-color: blueviolet;
   }
-  .interressi{
-    color: rebeccapurple;
-    font-weight: bold;
-  }
+ #Tittle-img{
+  font-size: 30px;
+    text-align: left;
+    padding: 20px;
+    color: white; 
+    background-image:url(../image/monitor.jpg); 
+     
+    background-color: white;
+    background-position: left;
+    background-repeat: no-repeat;
+width: 250px; 
+height: 200px;}
+
+#Tittle-img2{
+    font-size: 30px;
+    text-align: left;
+    padding: 20px;
+    color: white; 
+    background-image:url(../image/graph.jpg); 
+    background-position: left;
+    background-repeat: no-repeat;
+width: 250px; 
+height: 200px;}
