@@ -20,3 +20,15 @@
     background-position: center;
     background-repeat: repeat; 
 }
+.Text{
+    background-color: yellow;
+    color: black;
+    padding: 2px 4px;
+    border-radius: 3px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.tag{
+    color: blueviolet;
+    
+}
