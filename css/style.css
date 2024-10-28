@@ -1,18 +1,22 @@
+/* style.css */
+
 .raleway-uniquifier {
     font-family: "Raleway", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 10px;
+    font-weight: 400;
     font-style: normal;
-    
 }
 
 #page-title {
-    font-size: medium;
+    font-size: 30px;
     text-align: left;
-    background-image:url(../image/pattern.png);
-    background-size: auto;
-    color:red;
-    background-repeat: repeat;
+    padding: 20px;
+    color: white; 
+    
+
+    background-image:url(../image/pattern.png); 
+    background-size: 25%; 
+    background-color: blue;
+    background-position: center;
+    background-repeat: repeat; 
 }
-
-
